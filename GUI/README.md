@@ -1,4 +1,4 @@
-# Cryptography
+# Graphical User Interface
 
 `Tkinter` is the standard GUI library for a fast and easy way to create GUI applications.
 
